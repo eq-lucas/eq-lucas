@@ -21,7 +21,7 @@
 
 </div>
 
-### Frontend Development
+### Frontend
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/MIPS_Assembly-592C88?style=for-the-badge" alt="MIPS Assembly"/>
 </div>
 
-### Data Science
+### Data Science & Analysis
 <div align="left">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Azure+SQL+Database&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -53,7 +53,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Virtual_Machines-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Machines"/>
-  <img src="https://img.shields.io/badge/Networking-0077C8?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+</div>
+
+### Agile Methodologies
+<div align="left">
+  <img src="https://img.shields.io/badge/Scrum-0093D1?style=for-the-badge&logo=Azure+DevOps&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Kanban-4B9FC5?style=for-the-badge&logo=Trello&logoColor=white" alt="Kanban"/>
+  <img src="https://img.shields.io/badge/XP-006600?style=for-the-badge" alt="Extreme Programming"/>
 </div>
 
 ## 🔗 Contato
